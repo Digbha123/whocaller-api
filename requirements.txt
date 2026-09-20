@@ -1,0 +1,4 @@
+Django==5.0.14
+djangorestframework==3.17.2
+gunicorn==26.2.0
+whitenoise==6.12.0

@@ -1,0 +1,3 @@
+# Local virtualenv and build output (generated, not source)
+.venv/
+staticfiles/
